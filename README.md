@@ -8,7 +8,7 @@
 
 ##
 
-<div>
+<div align=center>
   <a href="https://github.com/SilasPires">
   <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=silaspires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silaspires&layout=compact&langs_count=16&theme=dracula"/>
@@ -16,7 +16,7 @@
   
 ##
   
-<div style="display: inline_block"><br>
+<div align=center style="display: inline_block"><br>
   <p>My programming languages:</p>
   <a href="https://github.com/SilasPires"><img align="center" alt="HTML5-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>
   <a href="https://github.com/SilasPires"><img align="center" alt="CSS3-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></a> 
@@ -36,8 +36,8 @@
   
   ##
   
-<div>
-  <p>My desing softwares:</p>
+<div align=center>
+  <p>My design softwares:</p>
   <a href="https://github.com/SilasPires"><img align="center" alt="ILLUSTRATOR-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"></a>   
   <a href="https://github.com/SilasPires"><img align="center" alt="PHOTOSHOP-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"></a>   
   <a href="https://github.com/SilasPires"><img align="center" alt="AFTEREF-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg"></a>   
@@ -46,7 +46,7 @@
   
   ##
   
-<div>
+<div align=center>
   <p>My social networks</p>
 <a href="https://www.instagram.com/silaspires.13/" target="_blank"><img alt="INSTAGRAM-logo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
 <a href="https://www.linkedin.com/in/silas-pires-720918190/" target="_blank"><img alt="LINKEDIN-logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -57,6 +57,6 @@
   
 ##
   
-<div>
+<div align=center>
     ![snake gif](https://github.com/SilasPires/silaspires/blob/output/github-contribution-grid-snake.svg)
 </div>
