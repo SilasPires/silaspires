@@ -23,6 +23,7 @@
   <a href="https://github.com/SilasPires"><img align="center" alt="JAVA-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a> 
   <a href="https://github.com/SilasPires"><img align="center" alt="JAVASCRIPT-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a> 
   <a href="https://github.com/SilasPires"><img align="center" alt="TYPESCRIPT-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a> 
+  <a href="https://github.com/SilasPires"><img align="center" alt="PYTON-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a> 
   <a href="https://github.com/SilasPires"><img align="center" alt="C-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></a> 
   <a href="https://github.com/SilasPires"><img align="center" alt="C#-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></a> 
   <a href="https://github.com/SilasPires"><img align="center" alt="C++-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></a> 
@@ -35,7 +36,7 @@
   
   ##
   
-<di>
+<div>
   <p>My desing softwares:</p>
   <a href="https://github.com/SilasPires"><img align="center" alt="ILLUSTRATOR-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"></a>   
   <a href="https://github.com/SilasPires"><img align="center" alt="PHOTOSHOP-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"></a>   
@@ -45,5 +46,12 @@
   
   ##
   
-
+<div>
+  <p>My social networks</p>
+<a href="https://www.instagram.com/silaspires.13/" target="_blank"><img alt="INSTAGRAM-logo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/silas-pires-720918190/" target="_blank"><img alt="LINKEDIN-logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://github.com/SilasPires" target="_blank"><img alt="GITHUB-logo" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
+<a href="mailto:pro.silaspires@gmail.com" target="_blank"><img alt="MAIL-logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>     
+    
+</div>
   
