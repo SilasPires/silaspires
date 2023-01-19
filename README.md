@@ -58,5 +58,5 @@
 ##
   
 <div>
-    ![Snake animation](https://github.com/SilasPires/SilasPires/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/SilasPires/silaspires/blob/output/github-contribution-grid-snake.svg)
 </div>
