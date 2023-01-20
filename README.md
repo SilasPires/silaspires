@@ -62,3 +62,10 @@
   <a align="center"> ![Snake animation](https://github.com/SilasPires/silaspires/blob/output/github-contribution-grid-snake.svg)</a>
   
 </div>
+  
+## 
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{silaspires}/count.svg" /></p> 
+<br></div>
