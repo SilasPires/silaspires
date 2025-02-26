@@ -56,14 +56,6 @@
 </div>
 
 ##
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SilasPires/silaspires/output/snake.svg" alt="Snake animation" />
-</div>
-  
-##
   
 <div align=center>
   
