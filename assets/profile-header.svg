@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Silas Pires — Software Engineer</title>
+  <desc id="desc">Animated profile header with Silas Pires's name, rotating specialties, and an orbiting pendulum motif.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#07111f"/>
+      <stop offset=".58" stop-color="#10243a"/>
+      <stop offset="1" stop-color="#092827"/>
+    </linearGradient>
+    <linearGradient id="line" x2="1" y2="0">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#5eead4" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8ac9ce" stroke-opacity=".08"/>
+    </pattern>
+    <clipPath id="reveal"><rect x="76" y="92" width="570" height="80"/></clipPath>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; }
+      .mono { font-family: Consolas, 'Courier New', monospace; }
+      .name { fill: #f5fbff; font-size: 67px; font-weight: 800; letter-spacing: 1px; }
+      .eyebrow { fill: #80e6d4; font-size: 15px; letter-spacing: 3px; }
+      .role { fill: #d4e9ed; font-size: 24px; font-weight: 600; }
+      .small { fill: #9eb9c5; font-size: 14px; letter-spacing: 1px; }
+      .reveal { animation: appear .9s ease-out both; }
+      .rule { transform-origin: 76px 188px; animation: draw .9s .35s ease-out both; }
+      .role-a { animation: roleA 12s infinite; }
+      .role-b { opacity: 0; animation: roleB 12s infinite; }
+      .role-c { opacity: 0; animation: roleC 12s infinite; }
+      .swing { transform-origin: 1023px 83px; animation: sway 5s ease-in-out infinite alternate; }
+      .pulse { animation: glow 3s ease-in-out infinite alternate; }
+      @keyframes appear { from { opacity: 0; transform: translateY(15px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes draw { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+      @keyframes roleA { 0%, 27% { opacity: 1; } 33%, 94% { opacity: 0; } 100% { opacity: 1; } }
+      @keyframes roleB { 0%, 29% { opacity: 0; } 35%, 61% { opacity: 1; } 67%, 100% { opacity: 0; } }
+      @keyframes roleC { 0%, 63% { opacity: 0; } 69%, 94% { opacity: 1; } 100% { opacity: 0; } }
+      @keyframes sway { from { transform: rotate(-22deg); } to { transform: rotate(22deg); } }
+      @keyframes glow { from { opacity: .55; } to { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) {
+        .reveal, .rule, .swing, .pulse, .role-a, .role-b, .role-c { animation: none; }
+        .role-b, .role-c { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+  <rect x="15" y="15" width="1250" height="330" rx="17" fill="none" stroke="#75ddce" stroke-opacity=".19"/>
+  <path d="M35 70V35h35M1210 35h35v35M35 290v35h35M1210 325h35v-35" fill="none" stroke="#5eead4" stroke-opacity=".6" stroke-width="2"/>
+
+  <text x="76" y="74" class="mono eyebrow">SILASPIRES / BUILDING WHAT'S NEXT</text>
+  <g clip-path="url(#reveal)"><text x="76" y="158" class="name reveal">Silas Pires<tspan fill="#5eead4">.</tspan></text></g>
+  <rect x="76" y="187" width="515" height="3" rx="2" fill="url(#line)" class="rule"/>
+
+  <g transform="translate(76 240)">
+    <text class="role role-a">Software Engineer <tspan fill="#5eead4">/</tspan> Product Builder</text>
+    <text class="role role-b">Full-stack <tspan fill="#5eead4">/</tspan> APIs <tspan fill="#5eead4">/</tspan> Infrastructure</text>
+    <text class="role role-c">AI Agents <tspan fill="#5eead4">/</tspan> Automation</text>
+  </g>
+  <text x="76" y="290" class="mono small">VITÓRIA DA CONQUISTA, BRAZIL  ·  OPEN TO GLOBAL TEAMS</text>
+  <circle cx="79" cy="316" r="4" fill="#5eead4" class="pulse"/>
+  <text x="93" y="321" class="mono small">designing · building · shipping</text>
+
+  <circle cx="1023" cy="83" r="205" fill="url(#halo)"/>
+  <circle cx="1023" cy="83" r="197" fill="none" stroke="#5eead4" stroke-opacity=".14" stroke-dasharray="5 10"/>
+  <path d="M795 260A260 260 0 0 1 1251 260" fill="none" stroke="#62cfc8" stroke-opacity=".25" stroke-width="2"/>
+  <path d="M826 261A215 215 0 0 1 1220 261" fill="none" stroke="#9bd9ea" stroke-opacity=".13"/>
+  <g class="swing">
+    <line x1="1023" y1="83" x2="1023" y2="285" stroke="url(#line)" stroke-width="3"/>
+    <circle cx="1023" cy="285" r="27" fill="#5eead4" opacity=".15"/>
+    <circle cx="1023" cy="285" r="16" fill="#5eead4"/>
+    <circle cx="1018" cy="279" r="5" fill="#e8fffa" opacity=".8"/>
+  </g>
+  <circle cx="1023" cy="83" r="7" fill="#d5fbf4"/>
+  <circle cx="1023" cy="83" r="15" fill="none" stroke="#5eead4" stroke-opacity=".55"/>
+  <text x="916" y="327" class="mono small">PÊNDULO &amp; CO.  /  01</text>
+</svg>
